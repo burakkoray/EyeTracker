@@ -1,0 +1,12 @@
+/*.o
+/moc*
+/GeneratedFiles/
+/*.opensdf
+/*.sdf
+/Debug/
+/Release/
+/ui_*
+/ipch/
+/eye-tracker
+/eye-tracker.pro
+/Makefile
